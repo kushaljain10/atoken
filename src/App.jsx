@@ -311,16 +311,32 @@ function Footer() {
         Not a coin. Not a promise. Just A Token.
       </div>
       <div className="links" style={{ marginTop: 12 }}>
-        <a href="https://x.com" target="_blank" rel="noopener noreferrer">
+        <a
+          href="https://twitter.com/i/communities/1983148581625168151"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           X
         </a>
-        <a href="https://solscan.io" target="_blank" rel="noopener noreferrer">
+        <a
+          href="https://solscan.io/token/9hiVTXACFo6gKb46YQgiZCeYDMnTFFDzgfZHvpBgpump"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           Solscan
         </a>
-        <a href="https://pump.fun" target="_blank" rel="noopener noreferrer">
+        <a
+          href="https://pump.fun/coin/9hiVTXACFo6gKb46YQgiZCeYDMnTFFDzgfZHvpBgpump"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           Pump.fun
         </a>
-        <a href="https://t.me" target="_blank" rel="noopener noreferrer">
+        <a
+          href="https://t.me/itsjustatoken"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           Telegram
         </a>
       </div>
