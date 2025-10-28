@@ -64,7 +64,7 @@ function Hero() {
           Or maybe it’s the token.
         </p>
         <div className="btns reveal" style={{ marginTop: 28 }}>
-          <a className="button primary" href="https://jup.ag/" target="_blank" rel="noopener noreferrer">Buy $ATOKEN</a>
+          <a className="button primary" href="https://jup.ag/" target="_blank" rel="noopener noreferrer">Buy $TOKEN</a>
           <a className="button secondary" href="https://x.com" target="_blank" rel="noopener noreferrer">Join the Community</a>
         </div>
       </div>
